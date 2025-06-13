@@ -1,6 +1,6 @@
 ## Hallo zusammen 👋
 
-Ich bin Daten-Enthusiast und beschäftige mich schon mein halbes Leben mit Daten und Programmierung. Von Haus aus Physiker, war ich jahrelang als Datenjournalist und Trainer unterwegs. Heute möchte ich Unternehmen helfen, Daten praktisch und verständlich zu nutzen. Ich habe eine Schwäche für Statistik und Mathematik. Außerdem singe ich gern und arbeite gerne mit Holz. Ich lebe in Hamburg.
+Ich bin Daten-Enthusiast und beschäftige mich schon mein halbes Leben mit Daten und Programmierung. Von Haus aus Physiker, war ich jahrelang als Datenjournalist und Trainer unterwegs. Heute möchte ich Unternehmen helfen, Daten praktisch und verständlich zu nutzen. Ich habe eine Schwäche für Statistik und Mathematik. Ich liebe es zu singen und arbeite gerne mit Holz. Ich lebe in Hamburg.
 
 * 🔭 Aktuell arbeite ich an Portfolio-Projekten rund um Datenanalyse, Visualisierung, Automatisierung und den Einsatz von GPTs (hauptsächlich über die neuesten Möglichkeiten der ChatGPT-APIs). Bisher waren meine Repos privat, jetzt beginne ich, sie zu polieren und zu veröffentlichen.
 * 🌱 Ich lerne derzeit alles rund um Machine Learning, KI im weiteren Sinne, wie man sie mit Python und LLM-APIs versteht und anwendet, und wie man sie praktisch nutzen kann.
