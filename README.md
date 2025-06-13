@@ -7,8 +7,6 @@ I'm a data enthusiast who has been working with data and programming for most of
 * 👯 I’m looking to collaborate on projects that use data, analytics, and software development to help small and medium-sized enterprises make better decisions, improve productivity, and automate boring or costly processes.
 * ⚡ Fun fact: My first programming language (aside from BASIC on the C64) was Assembler on an Amiga 2000.
 
-## Welcome to my GitHub Profile Page
-
 #### \:hammer\_and\_wrench: Languages and Tools :
 
 <div>
