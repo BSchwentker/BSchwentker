@@ -6,7 +6,7 @@ Ich bin Daten-Enthusiast und beschäftige mich schon mein fast mein ganzes Leben
 * 🌱 Ich lerne derzeit alles rund um Machine Learning, KI im weiteren Sinne, wie man sie mit Python und LLM-APIs versteht und anwendet, und wie man sie praktisch nutzen kann.
 * 👯 Ich suche nach Kollaborationen, bei denen Daten, Analytik und Softwareentwicklung kleinen und mittelständischen Unternehmen und Organisationen helfen, bessere Entscheidungen zu treffen, die Produktivität zu steigern oder langweilige bzw. kostspielige Prozesse zu automatisieren.
 * ⚡ Fun Fact: Meine erste Programmiersprache (neben BASIC auf dem C64) war Assembler auf einem Amiga 2000.
-* 📬 [Schreiben Sie mir eine E-Mail](mailto:github@bjoernschwentker.de)
+* 📬 Kontakt: [Per E-Mail.](mailto:github@bjoernschwentker.de)
 
 ## Willkommen auf meiner GitHub-Profilseite
 
